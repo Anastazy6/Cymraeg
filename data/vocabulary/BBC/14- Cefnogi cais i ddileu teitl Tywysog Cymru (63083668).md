@@ -2,11 +2,12 @@
 [//]: #(Gwynedd: wsparcie próby usunięcia tytułu księcia Walii)
 ID: 63083668
 
+1. amryw (dang - dangosolyn, wskaźnik) - sundry: rozmaity, różny; several: kilka, parę, divers: różnoraki, rozmaity
 1. ar goll (ans) - missing, lost, zagubiony, brakujący, utracony, zaginiony, nieobecny
 1. arolwg (eg) arolygon (ll) - sondaż, ankieta, badanie opinii
 1. 1. arolwg barn (eg) - sondaż, ankieta, badanie opinii (precyzyjniejszy termin) 
-1. arwisgo (be) - to invest (w sensie "wprowadzać na urząd")
-1. arwisgiad (eg) - investiture, inwestytura
+1. arwisgo (be) - to invest: wprowadzać na urząd, odziać (np. w szatę); enrobe: przywdziewć (np. szatę)
+1. arwisgiad (eg) - investiture, inwestytura, wprowadzenie na urząd
 1. brwsio (be)- to brush: szczotkować, czyścić, strzepywać, zmiatać (np. kurz)
 1. brwsio o dan y carped (ymadrodd) - zamiatać pod dywan (ang: sweep/brush something under the carpet) (wg kontekstu artykułu zwrot zdaje się mieć podobny wydźwięk idiomu, co w polskim)
 1. brwydr (eb) brwydrau (ll) - bitwa
@@ -51,3 +52,4 @@ ID: 63083668
 1. tywysogaeth (eb) tywysogaethau (ll) - księstwo
 1. urddo (be) - inaugurować, wprowadzać (uroczyście); dub: nazwać, nadać przydomek, ochrzcić mianem; 
 1. ysgogi (be) - motywować, stymulować, aktywować, uruchomić, wywołać
+1. ymatal (be) - wstrzymać się (np. podczas głosowania)

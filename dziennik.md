@@ -862,3 +862,7 @@
 11.10.2022 23:50 - 0:20:
     Zrobione do: nagłówka "dim pwrpas"
     Któregoś dnia ogarnąć słowotwórstwo, m. in. przedrostki i przyrostki.
+
+12.10.2022 23:54 - 0:25:
+    Kończenie i quizletowanie.
+    Przepisane do pencadlysoedd.

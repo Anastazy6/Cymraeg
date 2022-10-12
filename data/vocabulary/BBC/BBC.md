@@ -12,6 +12,7 @@ ardd (**ardd**dodiad) | przyimek
 be (**b**erf**e**nw) | czasownik (dokładniej: bezokolicznik, dosł. czasowniko-rzeczownik)
 berf | czasownik (którego nie da się zakwalifikować jako *berfenw*)
 cys (**cys**ylltair) | spójnik
+dang (**dang**osolyn) | wskaźnik
 eb (**e**nw **b**enywaidd) | rzeczownik rodzaju żeńskiego
 eg (**e**nw **g**wrywaidd) | rzeczownik rodzaju męskiego
 eg/b                       | rzeczownik, dla którego obydwa rodzaje są poprawne

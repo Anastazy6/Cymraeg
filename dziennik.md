@@ -866,3 +866,56 @@
 12.10.2022 23:54 - 0:25:
     Kończenie i quizletowanie.
     Przepisane do pencadlysoedd.
+
+13.10.2022 -> 14.10 3:16 - 3:46:
+    Kończenie przepisywania i test.
+    Test:        40/65 61% (standard jak na pierwsze podejście)
+    Runda druga: 65/65 100% (no to aby jutro wynik powtórzyć xD)
+
+14.10.2022 -> 15.10. 1:12 - 1:42:
+    Testy:
+        Nie dla księstwa:            56/65 86%
+        Runda 2:                     61/65 93% (1 głupia literówkas)
+        Nadmorskie miasta fotografa: 85/88 96% (1 synonim, 1 literówka, 1 krótkie słowo zamiast długiego (wariant synonimu))
+        Sekt-AA:                     70/72 97% (1 literówka)
+
+15.10.2022 -> 16.10 0:15 - 0:45:
+    Testy:
+        Nie dla księstwa:            63/65 96% (2 literówki)
+        Prawo do protestów:        121/146 82% (do powtórzenia!)
+
+16.10.2022 -> 17.10 0:25 - 0:55:
+    Testy:
+        Nie dla księstwa:           65/65 100%
+        Prawo do protestów:        141/146 96% (2 literówki, 1 pełna pomyłka, 1 zła końcówka liczby mnogiej)
+        Nadmorkie miasta fotografa:  85/88 96% (3 literówki, nic poważniejszego)
+        Sekt-AA:                     71/72 98% (1 literówka, przy ostatnim przykładzie zapomniałem o miękkiej mutacji xD)
+    Zaliczone, można robić kolejny artykuł
+
+17.10.2022 23:52 - 0:22:
+    Szukanie nowego artykułu.
+    Dziś było samo czytanie.
+
+18.10.2022 -> 19.10 0:40 - 1:10:
+    Dalsze szukanie dobrego artukułu.
+    Ten powinien być dość wymagający:
+    https://www.bbc.com/cymrufyw/63299414
+
+19.10.2022 -> 20.10 0:12 - 0:44:
+    Nowy artykuł
+
+20.10.2022 -> 21.10 0:05 - 0:35:
+    Zrobione do: Mae denu draenogod i'r ardd drwy roi bwyd a dŵr allan yn ddefnyddiol gan eu bod nhw'n bwyta pryfetach, malwod a gwlithod.
+
+21.10.2022 -> 22.10 0:41 - 1:15:
+    Zeszło się na kolejny akapit przez ten czas. 
+- (cy) "Mae rŵan yn gyfnod pwysig iddyn nhw gael lle tawel i aeafgysgu, mewn bôn rhyw wrych trwchus lle mae pentwr o ddail a gweiriach. Fydda' i'n rhoi pentwr o frigau a dail i lawr iddyn nhw dycio mewn i fanna."
+- (en) "Now is an important time for them to have a quiet place to hibernate, basically a thick hedge where there is a pile of leaves and grass. I'll put down a pile of twigs and leaves for them to tuck into manna."
+- (pl) "Teraz jest dla nich ważny czas, aby mieć spokojne miejsce do hibernacji, w zasadzie gruby żywopłot, na którym znajduje się sterta liści i trawy. Odłożę stertę gałązek i liści, aby wsadziły je w mannę."
+Tłumaczone google tłumaczem. 
+
+22.10.2022 23:48 - 0:20:
+    Zrobione do "Mae rhai capiau cwyr yn lliwgar iawn - fel y cap cwyr balerina yma". Cap cwyr to rodzaj grzybów (wilgotnica), który zawiera, jak się okazuje, nie tak mało gatunków. Cap cwyr duol? Wilgotnica czerniejąca. Cap cwyr coch? Szkarłatna (nie czerwona). W wypadku innych gatunków rozbieżność robi się jeszcze większa xD.
+
+23.10.2022 1:18 - 1:48:
+    Zrobione do: "Maen nhw'n weddol gyffredin a be' maen nhw angen ydi porfa, rhywle wedi ei dorri yn weddol ond ddim wedi cael gwrtaith - tydyn nhw ddim yn licio gwrtaith o gwbl. Mae wedi cymryd bron i 20 mlynedd i fi gael y rhain yma achos cyn i ni adeiladu'r tŷ yma cae ffarm oedd o efo lot o wrtaith."

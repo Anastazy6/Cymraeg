@@ -17,6 +17,7 @@ eb (**e**nw **b**enywaidd) | rzeczownik rodzaju żeńskiego
 eg (**e**nw **g**wrywaidd) | rzeczownik rodzaju męskiego
 eg/b                       | rzeczownik, dla którego obydwa rodzaje są poprawne
 ep (**e**nw **p**riod) | nazwa własna
+ex | rzeczownik, brak danych co do rodzaju (zwykle będzie to męski, ale niekoniecznie)
 ll (enw **ll**uosog) | rzeczownik w liczbie mnogiej
 pennawd/pen (**pen**nawd) | nagłówek (nagłówki często mają specyficzną sobie formę, którą ciężej zrozumieć)
 rhag (**rhag**enw) | zaimek

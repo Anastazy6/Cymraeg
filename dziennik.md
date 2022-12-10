@@ -919,3 +919,201 @@ Tłumaczone google tłumaczem.
 
 23.10.2022 1:18 - 1:48:
     Zrobione do: "Maen nhw'n weddol gyffredin a be' maen nhw angen ydi porfa, rhywle wedi ei dorri yn weddol ond ddim wedi cael gwrtaith - tydyn nhw ddim yn licio gwrtaith o gwbl. Mae wedi cymryd bron i 20 mlynedd i fi gael y rhain yma achos cyn i ni adeiladu'r tŷ yma cae ffarm oedd o efo lot o wrtaith."
+
+24.10.2022 -> 25.10 2:58 - 3:29:
+    Zrobione do "I weld ffyngau ewch i gaeau gwair sydd heb eu gwella - mae dipyn o'r rheiny i'w cael yn yr ucheldir."
+
+25.10.2022 -> 26.10 2:50 - 3:20:
+    Zrobione do "Mae'n gyfnod pwysig iawn yn yr ardd neu'r parc lleol i roi bwyd allan i'r adar. Mae'r tywydd garw yn dechrau dod, mae wedi oeri dipyn go lew ac mae llai o olau dydd felly dim gymaint o amser i'r adar chwilio am fwyd." Część słownictwa pochodzi z wikipedii (w kontekście grzybów warto na przykład wiedzieć, jak jest 'trucizna')
+
+26.10.2022 -> 27.10 0:27 - 1:01:
+    Zrobione do "Yr adar gawn ni yn yr ardd rŵan ydi rhai gweddol gyffredin gan fod adar y coed yn dod mewn i'r ardd gan fod o'n le hawdd i gael bwyd os yda ni'n rhoi peth allan. Adar fel y titw Tomos, titw mawr, titw penddu, titw cynffon hir, ac mae'r adar duon, robin goch, ji-binc a llinos werdd i gyd yn dod i mewn." Jak się tłumaczy takie nazwy ptaków jak llinos -> makolągwa zwyczajna, lub llinos werdd -> dzwoniec zwyczajny, to się kurwa schodzi xD
+
+27.10.2022 23:58 - 0:28:
+    Zrobione do "Be' sy'n ddifyr ydi mai go brin mai'r deryn du a'r robin wnaeth nythu yn eich gardd ydi'r un welwch chi rŵan - maen nhw'n tueddu i symud i'r de orllewin, a 'da ni'n cael adar duon a ji-binc o'r cyfandir. Maen nhw i gyd yn symud lawr i chwilio am dywydd mwynach.  
+    Fydda' i'n rhoi cnau mwnci, peli braster,... "
+
+29.10.2022 -> 30.10 2:26 - 2:56:
+    No, popiło się wczoraj xD. Dziś zmiana czasu, sesja jest robiona już po zmianie.
+    Zrobione do: "Mae'n werth gweld y drudwy hefyd. Maen nhw wedi dod o lefydd mor bell i ffwrdd a Rwsia a Dwyrain Ewrop - mae'r niferodd sy'n nythu yng Nghymru wedi gostwng yn aruthrol ond mae niferoedd mawr yn dod mewn ddiwedd yr hydref a thrwy'r gaeaf i ddianc tywydd garw o'r Rwsia a Ffindir."
+    Jak dobrze pójdzie, to jutro to skończę.
+
+30.10.2022 23:59 - 0:29:
+    Chyba skończone, choć kot bardzo utrudniał dziś robotę...
+
+31.10.2022 23:28 - 23:58:
+    Przepisywanie do quizleta
+    Zrobione do 'ffynonellau'
+
+01.11.2022 -> 01.11 0:29 - 0:59:
+    Przepisane do 'robinod goch'
+
+02.11.2022 -> 03.11 0:17 - 0:48:
+    0:23: Przepisane, 177 pozycji
+    Test: 114/177 64%
+
+03.11.2022 -> 04.11 2:46 - 3:16:
+    Test: 164/177 92% (dobry postęp, ale to wciąż za mało)
+    Poprawić: 
+    - 'llyfaint'/'llyfantod' na 'llyffaint'/'llyffantod'
+    - 'plues' na 'pluen'
+
+04.11.2022 23:56 - 0:26:
+    Test: 170/177 96% (zaliczony)
+
+05.11.2022 -> 06.11.2022 0:58 - 1:28:
+    Testy:
+        Jeże, grzyby, ptaki:    169/177 95% (zaliczony, do tego 6 błędów to głupie literówki, mimo których zastrzegłbym sobie prawo do zaliczenia)
+        Prawo do protestów:     130/146 89% (niezaliczony, choć jak na tak długi czas od ostatniej powtórki przedostatniego materiału, to nie ma tragedii)
+
+06.11.2022 -> 07.11.2022 2:10 - 2:47:
+    Testy:
+        - Jeże, grzyby, ptaki:     173/177 97% (2 literówki, 1 zła liczba (cnau fwnci xD, a powinno być cneuen fwnci) i 1 brainfuck (ffindir jako nizina (iseldir), a nie pogranicze, wtf mózgu xD))
+        - Prawo do protestów:      141/146 96% (2 albo 3 literówki, 1 szybki enter i jedno chyba było dobrze, ale nie załapało akcentu, bo 
+        zjebałem wybór klawiatury (była polska, zamiast walijskiek) lol)
+        - Nie dla księstwa:         37/65  56% (kilka dałoby jeszcze radę zaliczyć, ale efektywnie jakbym w ogóle się tego nie uczył, tylko przerobił artykuł i testował się pierwszy raz, może nawet i gorzej (zwykle te 60% jest XD)) Do powtórzenia, i to parę razy.
+
+07.11.2022 -> 08.11.2022 0:19 - 0:52:
+    Testy:
+        - Nie dla księstwa:           62/65 95% (w tym 2 literówki, których nie zauważyłem + pułapka rodzajowa...)
+        - Nadmorske miasta fotografa: 83/88 94% (1 szybki enter, 1 zła końcówka liczby mnogiej (istotny błąd), 1 zła końcówka liczby mnogiej ale przez to, że arogl ma je 2, w zależności od znaczenia; dałem arogleuon zamiast aroglau. Generalnie mały błąd, bo to taka pułapka, 1 pojedyncze 'n' zamiast podwójnego (glanau zamiast glannau), raczej niewielki błąd, no i napisałem natwriol zamiast naturiol xD.) No, na pograniczu zaliczenia, jutro się zrobi ponownie. 
+        - Sekt-AA:                    69/72 95% (1 zły akcent, mimo, że chciałem dać dobry, to palce walnęły co innego, a potem od razu enter xD)
+    Można zrobić serię testow ze wszystkiego (od ostatniej minęło trochę czasu):
+        - Borys i HS2:              131/137 95% (zaliczone, do tego większość błędów wynika z zajebiście szybkiego odpowiadania xD, głównie literówki)
+
+08.11.2022 -> 09.11 4:33 - 5:03:
+    Testy:
+        - Nadmorskie miasta fotografa: 88/88 100%
+        - Plaże:                     102/105 97% (pomyliłem 'przyznać' z 'przyznać się' xD, 1 błąd to w ogóle nie wiem, co było, musiałem nie zauważyć literówki, myśląć, że napisałem tak, jak powino być, a ostatni to 'u' zamiast 'i' na końcu słowa...)
+        - Synestezja:                105/120 87% (ze 2-3 poważne błędy, reszta to albo literówki, albo wyrazy typu: cały, całość, wszyscy itp (jeden wielki clusterfuck...). Czasem synonimy... No ale do poprawy)
+
+09.11.2022 20:13 - 20:20 (7 min), 20:41 - 21:04:
+    Testy:
+        - Synestezja:                118/120 98%
+        - - Poprawić "anniby*n*ol" na "anniby*nn*ol", jeden z wczorajszych "błędów" okazał się być poprawną odpowiedzią.
+        - HIV:                       100/104 96%
+        - Strajki:                     86/91 94% (do poprawy, zwłaszcza przez błąd poniżej xDDDDD)
+        - - Pomylić oszczędności z wydatkami xD
+
+10.11.2022 -> 11.11 0:10 - 0:43:
+    Testy:
+        - Strajki:                       89/91 97% (1 to złe, ale podobnie zaczynające się słowo, z rozpędu, a 2 to w sumie nie wiem co, musiałem chyba literówki nie zauważyć)
+        - Ukraina:                       78/84 92% (głównie literówki...) Jutro do poprawy
+        - Borys wypierdala:            190/210 90% (zapomniane słowa: 6, literówki: 5, pomyłki: 8, złe morfemy: 1) - Do poprawy
+
+11.11.2022 -> 12.11 0:34 - 1:06:
+    Testy:
+        - Ukraina:                       93/84 98% (literówki: 1)
+        - Borys wypierdala:            206/210 98% (literówki: 4)
+        - Mieszkania:                  119/128 92% (zapomniane: 2, pomylone: 1, zła forma: 1, literówki: 2, poprawne, ale system...: 2), efektywnie 121/128, ale i tak do poprawy
+
+12.11.2022 -> 13.11 0:59 - 1:29:
+    Testy:
+        - Mieszkania:                  119/128 92% (pomyłki: 4, literówki: 3, szybki enter: 1, nie-mam-pojęcia-co-było-źle: 1), efektywnie 124/128 (96,875) ale chuj xD, może na trzeźwo się uda  xD
+        - Niepodległość:               109/120 90%
+
+13.11.2022 23:38 - 0:08:
+    Testy:
+        - Mieszkania:                  125/128 97% (zła liczba: 1, pomyłki: 2)
+        - Niepodległość:               116/120 96% (brak akcentu: 1, pomyłki: 2, literówki: 1)
+        - Kariera wiecznego cwela:       53/58 91%  (pomyłki:  3, literówki: 2) do poprawy
+
+14.11.2022 -> 15.11 1:08 - 1:38:
+    Testy:
+        - Kariera wiecznego cwela:       56/58 96% (w tym override literówki, znałem odpowiedź, ale czsem się klawisz nie wciśnie)
+        - Sekt-AA:                       69/72 95% (1 błąd, reszta to jakieś pierdoły, ale nie zauważyłem jakie) zaliczone
+        - Nadmorskie miasta fotografa:   81/88 92% (ale przez dużo szybkich enterów, tak to może z 1 lub 2 błędy), do zobaczenia jutro
+
+15.11.2022 21:48 - 22:18:
+    Testy:
+        - Nadmorskie miasta fotografa:   86/88 97% (1 literówka, 1 zapomniana końcówka)
+        - Prawo do protestów:          141/146 96% 
+
+16.11.2022 1:18 - 1:48:
+    Testy:
+        - Nie dla księstwa:              60/65 92% do poprawy
+        - Jeże, grzyby, praki:         173/177 97% (zmienić w systemie: 'nat**w**riaethwr' na 'nat**u**riaethwr', liczbę mnogą analogicznie)
+
+17.11.2022 0:20 - 0:50:
+    Testy:
+        - Nie dla księstwa:              63/65 96%
+    Przegląd prasy, może coś nowego do przerobienia się znajdzie.
+
+18.11.2022 -> 19.11 1:23 - 1:53:
+    Przegląd prasy, szukanie nowego artykułu.
+    Do rozważenia: https://www.bbc.com/cymrufyw/62398439
+    
+19.11.2022 -> 20.11 0:22 - 0:52:
+    Wstępne czytanie artykułu.
+    Wygląda na porządny tekst, częściowo zrozumiały, ale też z zauważalną dawką nowego słownictwa. O narkotykach.
+
+20.11.2022 -> 21.11 2:34 - 3:04:
+    Przepisywanie słownictwa z artykułu.
+    Zrobione do: Cafodd 210 o farwolaethau eu cofnodi yng Nghymru yn 2021, o'i gymharu â 149 yn 2020.
+
+22.11.2022 -> 23.11 0:09 - 0:39:
+    Wczoraj zgon, dziś kontynuujemy.
+
+23.11.2022 -> 24.11 2:35 - 3:05:
+    Zrobione
+
+25.11.2022 12:46 - 13:16:
+    Wczoraj zgon, teraz próba przejścia na nowy system: nauka przed graniem + wcześniejsze wstawanie.
+    Przepisywanie do quizleta.
+    Przepisane + 1 szybki proof reading (ale nie jakiś mega dokładny ofc)
+
+26.11.2022 13:55 - 14:25:
+    Test: 1. próba: 46/72 63% (standard jak na pierwszy raz)
+          2. próba: 69/72 95% (w zasadzie norma, zobaczymy jak jutro będzie, ale zwykle poniżej 95% jest)
+
+27.11.2022 14:48 - 15:18:
+    Testy:
+        Walijczycy walą w żyłę:      68/72 94% (nieźle, jutro do poprawy. Zobaczy się oczywiście, jak to będzie po serii testów z poprzednich materiałów)
+        Sekt-AA:                     69/72 95% (w tym szybki enter, reszta to literówki)
+        Nie dla księstwa:            62/65 95%
+        Nadmorskie miasta fotografa: 86/88 97% (tylko literówki/pomylone liczby)
+
+28.11.2022 19:24 - 19:54:
+    Testy:
+        Walijczycy walą w żyłę:      71/72 98% (pomylony synonim)
+        Prawo do protestów:        142/146 97%
+
+29.11.2022 21:59 - 22:37:
+    Testy:
+        Walijczycy walą w żyłę:      72/72 100%
+        Jeże, grzyby, ptaki:       172/177 97%
+    Można robić kolejny artykuł.
+
+30.11.22022 23:20 - 23:50:
+    Szukanie nowego artykułu.
+
+01.12.2022 20:21 - 20:51:
+    Szukanie nowego artykułu.
+
+02.12.2022 14:36 - 15:06:
+    Krótki artykuł: https://www.bbc.com/cymrufyw/63827819
+    Może się przydać jako dodatek, aby więcej słówek w jednej partii dodać.
+    Do przerobienia: https://www.bbc.com/cymrufyw/63827818
+    Jakby nie wyszło z tego za wiele, to dorzucić ten pierwszy artykuł.
+
+03.12.2022 15:09 - 15:39:
+    Zrobione do "Diffoddwyr ar alw yw asgwrn cefn y gwasanaeth yng nghefn gwlad, a nhw sy'n gyfrifol am redeg y gwasanaeth mewn 43 o'r 56 gorsaf yn ardal y gorllewin a'r canolbarth."
+
+04.12.2022 13:02 - 13:32:
+    Zrobione do: 'Methu byw ar gariad ac ymroddiad yn unig'
+
+05.12.2022 15:11 - 15:41:
+    Skończone
+
+07.12.2022 22:00 - 22:30:
+    Wczoraj zgon, dziś zaczynam kolejny artykuł, który trafi do jednego zestawu z ostatnim.
+    Zrobione do: infografiki z symptomami, która zostaje do przerobienia.
+
+08.12.2022 19:22 - 19:52:
+    Zrobione do: "Mae Iechyd Cyhoeddus Cymru hefyd wedi anfon llythyr at rieni sydd â phlant mewn meithrinfeydd ac ysgolion ym Mhenarth."
+
+09.12.2022 A) 15:55 - 16:25:
+    Skończone
+
+10.12.2022 A) 16:20 - 16:50:
+    Przepisywanie do quizleta.

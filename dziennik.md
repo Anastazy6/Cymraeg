@@ -1117,3 +1117,262 @@ Tłumaczone google tłumaczem.
 
 10.12.2022 A) 16:20 - 16:50:
     Przepisywanie do quizleta.
+
+11.12.2022 A) 16:23 - 16:53:
+    Przepisywanie do quizleta ciąg dalszy.
+    Skończone. Wyszło 142 pojęć, co jest akuratne jak na jeden zestaw. Dobrym pomysłem było więc przerobienie dwóch artykułów na raz.
+
+12.12.2022 A) 20:26 - 21:06:
+    Test z ostatniego zestawu. 76/142 53%
+
+13.12.2022 A) 21:56 - 22:26:
+    Test z ostatniego zestawu: 121/142 85%
+
+14.12.2022 A) 20:34 - 21:04:
+    Test z ostatniego zestawu: 136/142 95% zaliczony + 2 błędy w systemie, a nie moje.
+    Poprawiłem wykryte błędy w systemie.
+
+15.12.2022 A) 20:35 - 21:05:
+    Testy:
+        Strażaków mało, a strep A szaleje: 139/142 97% (same literówki)
+        Walijczycy walą w żyłę           :  56/72  77% - do powtórzenia jutro
+
+16.12.2022 A) 17:43 - 18:13:
+    Testy:
+        Strażaków mało, a strep A szaleje: 137/142 96% (1 zapomniane, a tak to literówki)
+        Walijczycy walą w żyłę           :  69/72  95%, same literówki
+        Nie dla księstwa                 :  60/65  92%, 1 szybki enter, do powtórzenia
+
+17.12.2022 A) 17:14 - 17:46:
+    Testy:
+        Strażaków mało, a strep A szaleje: 139/142 97% (2 literówki)
+        Nie dla księstwa                 :  65/65 100%
+        Walijczycy walą w żyłę           :  70/72  97% (1 literówka, 1 zła końcówka)
+        Jeże, grzyby, ptaki              : 172/177 97%
+
+18.12.2022 20:26 - 20:56:
+    Testy:
+        Prawo do protestów         : 140/146 95% (z 1 czy 2 literówki), zaliczone
+        Nadmorskie miasta fotografa:  83/88  94% (za szybko robię xD)
+
+19.12.2022 23:22 - 23:52:
+    Testy:
+        Sekt-AA                          :  70/72  97%
+        Strażaków mało, a strep A szaleje: 139/142 97%
+
+20.12.2022 22:42 - 23:12:
+    Szukanie nowego artykułu.
+
+21.12.2022 22:13 - 22:43:
+    Szukanie nowego artykułu.
+    Nada się: https://www.bbc.com/cymrufyw/64042233
+
+22.12.2022 22:10 - 22:40:
+    Robiebie nowego artykułu.
+    Zrobione do: "Mae gwasanaethau sy'n achub a chynnal bywydau yn cael eu diogelu rhag y streic - drwy gytundeb - a gallai staff ddychwelyd i'r gwaith os oes "digwyddiad difrifol" fel damwain trên neu ymosodiad terfysgol."
+
+23.12.2022 18:10 - 18:40:
+    Zrobione do: "Yn ôl un o gadeiryddion cangen y GMB yng Nghymru, Ian James o Grucywel, dyw'r penderfyniad i streicio ddim wedi bod yn hawdd i staff."
+
+24.12.2022 17:16 - 17:46:
+    Zrobione do: "Wrth siarad â'r BBC dywedodd y Prif Weinidog Mark Drakeford y gallai Llywodraeth Cymru fod wedi codi trethi neu ailgyfeirio arian o fewn eu cyllideb er mwyn cynyddu cyflogau staff iechyd, ond y byddai hynny wedi "golygu llai o driniaethau, llai o nyrsys, llai o arian i'r gwasanaeth iechyd"."
+
+25.12.2022 16:37 - 17:07:
+    Będzie jeszcze jeden artykuł w zestawie, bo coś mało z tego wyszło.
+    Zrobione, ale szukam od razu następnego artykułu. Zestawy poniżej 100 pojęć to trochę bieda.
+
+26.12.2022 23:46 - 0:16:
+    https://www.bbc.com/cymrufyw/63999800
+    Zrobione do: "Roedd lot o bobl yn y dŵr a dwi'n cofio gweld tad-cu gyda bachgen bach oedd tua tair mlwydd oed. Mae'n codi ofn arna'i y byddai'r salwch hyn wedi gallu digwydd i unrhyw un. Gallai'r plentyn yna fod wedi datblygu HUS a pheidio gwella ohono."
+
+27.12.2022 20:15 - 20:45:
+    Zrobione do:
+
+28.12.2022 22:39 - 23:09:
+    Nowy zestaw naskrobany do: cynortwywyr
+
+29.12.2022 20:38 - 21:08:
+    Dalsze skrobanie nowego zestawu.
+    Naskrobane, wyszło 116 pojęć.
+
+30.12.2022 20:36 - 21:06:
+    Testy z nowego zestawu:
+        A) 71/116  61%, poprawiono 3 błędy w systemie
+        B) 107/116 91%
+
+31.12.2022 19:08 - 19:38:
+    Testy z nowego zestawu:
+        A) 104/116 89%, około połowy błędów to głupie literówki
+        B) 113/116 97%, 2 literówki, 1 błąd w systemie (zmyłka - oznaczenie kategorii (do tego błędnej) w polskiej definicji)
+
+01.01.2023 20:35 - 21:05:
+    Test z ostatniego: 113/116 97%
+
+02.01.2023 23:20 - 23:50:
+    Test z ostatniego: 114/116 98% (gdzieś czegoś nie zauważyłem i mi nie zaliczyło...)
+
+04.01.2023 21:49 - 22:19:
+    Wczoraj zgon.
+    Testy:
+        Strajk pogotowia i ścieki w kąpielisku: 115/116 99% (zła końcówka mnogiej)
+        Strażaków mało, a strep A szaleje     : 129/142 90% (do powtórzenia)
+
+05.01.2023 20:03 - 20:33:
+    Testy:
+        Strajk pogotowia i ścieki w kąpielisku: 111/116  95% (tylko literówki)
+        Strażaków mało, a strep A szaleje     : 142/142 100%
+
+06.01.2023 18:37 - 19:09:
+    Testy:
+        Sekt-AA                    :   69/72  95% (tylko literówki)
+        Prawo do protestów         : 140/146  95% (3 literówki)
+        Nie dla księstwa           :   65/65 100%
+        Nadmorskie miasta fotografa:   85/88  96% (tylko literówki)
+    Bardzo ładna seria testów.
+
+07.01.2023 18:12 - 18:42:
+    Testy:
+        Jeże, grzyby, ptaki   : 167/177  94% (no prawie się udało, do powtórzenia)
+        Walijczycy walą w żyłę:   66/72  91% (ups, parę głupich błędów)
+
+08.01.2023 18:08 - 18:38:
+    Testy:
+        Jeże, grzyby, ptaki   : 173/177  97% (1 szybki enter)
+        Walijczycy walą w żyłę:   71/72  99% (1 pomyłka, jedna zjedzona litera przeforsowana)
+
+09.01.2023 18:03 - 18:33:
+    Testy:
+        Strajk pogotowia i ścieki w kąpielisku: 113/116 97% (2 pomylone liczby + literówka)
+        Strażaków mało, a strep A szaleje     : 138/142 97% (same literówki)
+    Można robić kolejny artykuł (lub 2 na raz)
+
+10.01.2023 21:10 - 21:40:
+    Szukanie nowego artykułu.
+    Będą git:
+    https://www.bbc.com/cymrufyw/64215099
+    https://www.bbc.com/cymrufyw/64212608
+
+11.01.2023 20:38 - 21:08:
+    Zrobione do: "Mae 'na brinder o radioisotopau ar draws y byd ar hyn o bryd sy'n golygu na fydd cleifion canser yn cael diagnosis nac yn cael eu trin. Bydd pobl yn marw o ganlyniad i hynny."
+
+12.01.2023 21:50 - 22:20:
+    Wypisane słówka z artykułu, ale były problemy z działaniem słownika, więc tłumaczenie zostaje na jutro.
+
+13.01.2023 20:58 - 21:28:
+    Skończone spisywanie, ale bez tłumaczeń.
+
+14.01.2023 18:55 - 19:25:
+    Większość przetłumaczona za pomocą drugiego słownika i tłumacza google.
+
+15.01.2023 18:56 - 19:26:
+    Większość reszty przetłumaczona. Co przetłumaczone, to przepisane do quizleta. Słownik dalej nie działa, co poddaje wątpliwości poprawność tego zestawu.
+
+16.01.2023 16:30 - 17:00:
+    Testy z nowego:
+        Seria 1: 54/69  78%
+        Seria 2: 67/69  97%
+        Seria 3: 69/69 100%
+
+17.01.2023 22:50 - 23:20:
+    Test z nowego: 64/69 92% (pierdoły, ale człowiek śpiący nie panuje nad tym)
+    Słownik wrócił do żywych
+
+18.01.2023 23:31 - 0:01:
+    Test z nowego: 68/69 98% (literówka)
+
+19.01.2023 20:34 - 21:04:
+    Test z nowego: 66/69 95% (literówki, pomylone słowo)
+
+20.01.2023 23:23 - 23:53:
+    Test z nowego: 69/69 100%
+    Sekt-AA      : 69/72  95% (literówki tylko) 
+
+21.01.2023 20:33 - 21:03:
+    Test z nowego: 64/69 92% (szybki enter, pomyłka i literówki)
+    Sekt-AA      : 70/72 97% (tylko literówki)
+
+22.01.2023 18:52 - 19:22:
+    Test z nowego         :  69/69  100%
+    Jeże, grzyby, ptaki   : 172/177  97% (głównie literówki/złe końcówki)
+    Walijczycy walą w żyłę:   70/72  97%
+
+23.01.2023 22:05 - 22:35:
+    Strażaków mało, a strep A szaleje: 135/142  95% (uff xD)
+
+24.01.2023 21:37 - 22:07:
+    Testy:
+        Strajk pogotowia i ścieki w kąpielisku: 106/116 91%
+
+26.01.2023 21:38 - 22:08:
+    Wczoraj zgon xD
+    Testy:
+        Strajk pogotowia i ścieki w kąpielisku: 114/116 98% (1 szybki enter, 1 zła liczba)
+
+27.01.2023 19:25 - 19:55:
+    Testy:
+        Prawo do protestów: 133/146  91%
+        Nie dla księstwa  :   64/65  98%
+
+28.01.2023 19:39 - 20.09:
+    Testy:
+         Nadmorskie miasta fotografa:   86/88  97% (same literówki)
+         Prawo do protestów         : 143/146  97% (2 literówki)
+         Test z nowego              :   68/69  98% (zła liczba)
+    Można robić ostatni artykuł z serii.
+
+29.01.2023 19:41 - 20:11:
+    Szukanie nowego artykułu (albo 2)
+    Przyda się: https://www.bbc.com/cymrufyw/64384161
+
+30.01.2023 21:46 - 22:16:
+    Przyda się i drugi artykuł: https://www.bbc.com/cymrufyw/64450996 
+
+31.01.2023 -> 01.02 1:09 - 1:39:
+    Przepisane do "Yn ddibynnol ar well gefnogaeth gan Lywodraeth y DU a chwymp yn y gost, mae'r gweinidog eisiau i 5.5GW o ynni i ddod o bympiau gwres erbyn yr un cyfnod."
+    Przetłumaczone częściowo.
+
+01.02.2023 22:38 - 23:08:
+    Przetłumaczone to co  było przepisane.
+
+02.02.2023 22:40 - 23:10:
+    Zrobione do "Mae angen i ni ddatgloi rhai rhwystrau allweddol, gyda chynllunio a thrwyddedu'n bennaf, a chydweithio'n agos gyda Llywodraeth y DU hefyd i sicrhau bod gennym fuddsoddiad yn ein porthladdoedd a'n seilwaith."
+
+03.02.2023 21:11 - 21:41:
+    Artykuł skończony, jutro leci od razu drugi.
+
+04.02.2023 19:40 - 20:10:
+    Słownictwo spisane i częściowo przetłumaczone.
+
+05.02.2023 18:50 - 19:20:
+    Przetłumaczone.
+
+06.02.2023 21:27 - 21:57:
+    Przepisywanie do quizleta.
+    Zrobione do isadeileddau
+
+07.02.2023 22:07 - 22:37:
+    Zgonowanie i czytanie...
+
+08.02.2023 20:34 - 21:04:
+    Przepisane do 'cyfryngau'
+
+09.02.2023 21:55 - 22:25:
+    Przepisane
+
+10.02.2023 18:57 - 19:27:
+    Test z nowego: 83/127 65%
+
+11.02.2023 17:38 - 18:08:
+    Test z nowego: 115/127 90%
+
+12.02.2023 18:30 - 19:00:
+    Test z nowego: 122/127 96% zaliczony
+
+13.02.2023 17:21 - 17:51:
+    Test z nowego: 121/127 95% zaliczony, łatwo tu o literówki
+
+14.02.2023 22:36 - 23:06:
+    Test z nowego: 124/127 98% zaliczony
+
+15.02.2023 23:50 - 0:20:
+    Czytanie

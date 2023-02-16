@@ -95,7 +95,7 @@ ID: 63827819
 1. synhwyrol (ans) - sapient: mądry, światły; well-advised: roztropny, rozważny; sane: rozsądny, rozumny, przy zdrowych zmysłach; discreet: dyskretny, rozważny; sensible: rozsądny; rational: racjonalny, rozsądny;
 1. tisiad (eg) tisiadau (ll) - kichnięcie
 1. tisian (be) - kichać
-1. traean (eg) traenau (ll) - jedna trzecia, 1/3
+1. traean (eg) traeanau (ll) - jedna trzecia, 1/3
 1. twymyn (eb) twymynau (ll) - gorączka (na 't')
 1. tymheredd (eg) tymereddau (ll) - temperatura
 1. tynerwch (eg) - delikatność, miękkość, łagodność, wrażliwość (w tym podatność na ból itp.)
@@ -103,4 +103,5 @@ ID: 63827819
 1. ymledol (ans) - inwazyjny
 1. ymwybodol (ans) - świadomy (conscious, aware)
 1. ysgafn (ans) - łagodny, delikatny, słaby, nikły, lekki, mierny, subtelny
+1. ysgafnhau (be) - lighten: ulżyć, odciążyć, rozładować, zelżeć, zrobić się lżejszym, rozluźnić się;
 1. ysgol cynradd (eb) - szkoła podstawowa

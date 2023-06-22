@@ -1376,3 +1376,407 @@ Tłumaczone google tłumaczem.
 
 15.02.2023 23:50 - 0:20:
     Czytanie
+
+16.02.2023 23:10 - 23:40:
+    Test z nowego: 124/127 98%
+    Medycyna nuklearna i stary zegar: 61/69 88% (eh)
+
+17.02.2023 20:30 - 21:00:
+    Czytanie
+
+18.02.2023 17:26 - 17:56:
+    Czytanie
+
+19.02.2023 18:56 - 19:26:
+    Zasilanie tłumaczy OZE          : 126/127 99%
+    Medycyna nuklearna i stary zegar:   67/69 97% (1 synonim)
+    Nie dla księstwa                :   62/65 95% (2 literówki)
+
+20.02.2023 21:00 - 21:30:
+    Sekt-AA               : 70/72 97%
+    Strajk pogotowia i ścieki w kąpielisku: 109/116 93% (3 literówki, 1 zła liczba, ale się poprawi jutro)
+
+21.02.2023 22:35 - 23:05:
+    Strajk pogotowia i ścieki w kąpielisku: 113/116 97% 
+
+22.02.2023 23:29 - 23:59:
+    Zgon
+
+23.02.2023 18:27 - 18:57:
+    Walijczycy walą w żyłę:   68/72 94% (same literówki, ale się poprawi)
+    Jeże, grzyby, ptaki   : 161/177 90% (tylko: literówki, synonimy, złe liczby i szybkie entery.)
+
+24.02.2023 19:43 - 20:13:
+    Walijczycy walą w żyłę:   70/72 97% (same minimalne literówki)
+    Jeże, grzyby, ptaki   : 174/177 98% 
+
+25.02.2023 20:11 - 20:41:
+    Strażaków mało, a strep A szaleje: 133/142 93% (do poprawy)
+    Nadmorskie miasta fotografa:   86/88  97% (tylko literówki)
+
+26.02.2023 19:08 - 19:38:
+    Prawo do protestów: 141/146  96%
+    Johnson i HS2     : 131/137  95%     
+
+27.02.2023 21:50 - 22:20:
+    Strażaków mało, a strep A szaleje: 140/142 98%
+
+28.02.2023 21:22 - 21:52:
+
+01.03.2023: zgon
+
+02.03.2023 17:23 - 17:53:
+    Plaże: 101/105 96%
+
+03.03.2023 19:38 - 20:08:
+    Synestezja: 110/120 91% - do poprawy, cholernie dużo literówek
+
+04.03.2023 17:30 - 18:00:
+    Synestezja: 115/120  96% - synonimy to zmora po przerobieniu 20 zestawów xD
+    HIV       :  95/104  91% - i synonimy, i szybki enter, i literówki
+
+05.03.2023 18:23 - 18:53:
+    HIV                     : 104/104 100%
+    Strajk pracowników kolei:   84/91  92% - trzeba uważniej wpisywać xD ale powtórka nie zaszkodzi
+    Ukraina                 :   76/84  90% - do poprawy
+
+06.03.2023 20:36 - 21:06:
+    Strajk pracowników kolei:  89/91 98% - nieuwaga
+    Ukraina                 :  82/84 97%
+
+08.03.2023 20:35 - 21:05:
+    Wczoraj zgon.
+
+09.03.2023 17:03 - 17:33:
+
+
+10.03.2023 20:40 - 21:10:
+    Borys wypierdala: 188/210 90%   
+
+11.03.2023 18:39 - 19:09:
+    Borys wypierdala: 202/210 96% (literówki, zła końcówka)
+
+12.03.2023 18:51 - 19:21:
+    Mieszkania   : 120/126  93% (literówki i synonimy głównie, ale się poprawi)
+    Niepodległość: 106/120  88%
+
+13.03.2023 21:57 - 22:27:
+    Czytanie
+
+14.03.2023 21:37 - 22:07:
+    Czytanie
+
+---
+
+Wyszła nieplanowana przerwa
+
+---
+
+17.03.2023 21:25 - 21:55:
+    Duolingo + czytanie
+
+18.03.2023 21:07 - 21:37:
+    Niepodległość          : 115/120 95%
+    Kariera wiecznego cwela: 54/58   93% (do poprawy, zrobić też o kryzysie mieszkaniowym)
+
+19.03.2023 -> 20.03.2023 0:59 - 1:29:
+    Mieszkania             : 123/128 96%
+    Kariera wiecznego cwela:   57/58 98%
+
+20.03.2023 20:49 - 21:19:
+
+21.03.2023 A) 22:58 - 23:15 B) 0:40 - 0:53:
+    A) Duolingo + część testu.
+    B) Zasilanie tłumaczy OZE: 108/127 85% - do powtórzenia ze 2 razy minimum
+
+22.03.2023 A) 22:27 - 22:57:
+    A) Zasilanie tłumaczy OZE: 122/127 96% - jutro się powtórzy, dla pewności
+
+23.03.2023 A) 22:58 - 23:28:
+    A) Zasilanie tłumaczy OZE: 125/127 98%
+
+24.03.2023 A) 21:38 :*( - 22:08:
+    A) 
+
+26.03.2023 20:16 - 20:46:
+    Zasilanie tłumaczy OZE                : 125/127 98% (ciężko uniknąć literówek)
+    Medycyna nuklearna i stary zegar      :  64/69  92%
+    Strajk pogotowia i ścieki w kąpielisku: 103/116 88%
+
+27.03.2023 19:20 - 19:50:
+    Medycyna nuklearna i stary zegar      :  69/69 100%
+    Strajk pogotowia i ścieki w kąpielisku: 114/116 98%
+
+28.03.2023 22:27 - 23:27:
+    Czytanie
+
+29.03.2023 20:54 - 21:24:
+    Czytanie
+
+30.03.2023 19:54 -20:24:
+    Czytanie
+
+31.03.2023 21:37 - 22:07:
+    Czytanie
+
+01.04.2023 17:25 - 17:55:
+    Zasilanie tłumaczy OZE: 118/127 92% (w chuj ciężko uniknąć literówek xDDDDD albo pomylenia liczby)
+
+02.04.2023 18:26 - 18:56:
+
+03.04.2023 zgon
+
+04.04.2023 20:31 - 21:01:
+
+
+05.04.2023 17:29 - 17:59:
+    Czytanie
+
+06.04.2023 18:17 - 18:47:
+    Czytanie
+
+07.04.2023 16:44 - 17:14:
+  @20 Zasilanie tłumaczy OZE                : 125/127  98% (synonimy/literówki)
+  @19 Medycyna nuklearna i stary zegar      :   68/69  98%
+  @18 Strajk pogotowia i ścieki w kąpielisku: 113/116  97%
+
+08.04.2023 12:30 - 13:00:
+    Strażaków mało, a strep A szaleje: 136/142 95% (literówki)
+
+09.04.2023 17:05 - 17:35:
+    Czytanie
+
+10.04.2023 20:04 - 20:34:
+    Czytanie
+
+11.04.2023 20:11 - 20:44:
+    Czytanie
+
+12.04.2023 22:06 - 22:36:
+    Czytanie
+
+13.04.2023: zgon
+
+14.04.2023 21:50 - 22:20:
+    Czytanie
+
+15.04.2023 15:35 - 16:05:
+    Czytanie
+
+16.04.2023 18:14 - 18:44:
+    Czytanie
+
+17.04.2023 19:24 - 19:54:
+    Czytanie 
+
+18.04.2023 22:00 - 22:35:
+    Czytanie
+
+19.04.2023 zgon
+
+20.04.2023 A) 13:04 - 13:34:
+
+21.04.2023 A) 15:00 - 15:30:
+    Johnson i HS2     : 132/137  96%
+
+22.04.2023 16:52 - 17:22:
+    Czytanie
+
+23.04.2023 16:23 - 16:53:
+    Czytanie
+
+24.04.2023 23:06 - 23:42:
+    Czytanie
+
+25.04.2023 21:28 - 22:02:
+    Czytańsko
+
+26.04.2023 22:06 - 22:36:
+    Czytanie
+
+27.04.2023 zgon
+
+28.04.2023 20:47 - 21:17:
+    Czytanie
+
+29.04.2023 21:49 - 22:19:
+    Czytanie
+
+30.04.2023 20:57 - 21:37 nice:
+
+01.05.2023 wolne
+
+02.05.2023 21:50 - 22:10:
+  Czytanie
+  
+03.05.2023 - wolne
+
+04.05.2023 20:57 - 21:27:
+    Czytanie
+
+05.05.2023 22:27 - 22:57:
+    Czytanie
+
+06.05.2023 23:13 - 23:43:
+    Czytanie
+
+07.05.2023 21:22 - 21:52:
+    @1 Johnson i HS2: 131/137 95% (same literówki)
+    @2 Plaże        :  98/105 93% (głównie literówki/synonimy, do ewentualnej poprawy)
+    @3 Synestezja   : 108/120 90% (do poprawy - większość to pierdoły/synonimy, ale i tak do poprawy)
+
+08.05.2023 21:59 - 22:29:
+    @2 Plaże        : 104/105 99%
+    @3 Synestezja   : 114/120 95% (ujdzie xD)
+
+09.05.2023 23:08 - 23:38:
+    Czytanie, chyba
+
+10.05.2023 zgon
+
+11.05.2023 23:30 - 0:00:
+    @4 Hiv: 100/104 96%
+
+12.05.2023 zgon
+
+13.05.2023 19:41 - 20:11:
+    @5 Strajki: 87/91 95%
+    @6 Ukraina: 79/84 94% (literówki, ale można w sumie poprawić, 1 złe słowo)
+    
+14.05.2023 20:31 - 21:01:
+    Czytanie
+
+15.05.2023 20:44 - 21:14:
+    Czytanie
+
+16.05.2023 20:46 - 21:16:
+    Czytanie
+
+17.05.2023 22:20 - 22:50:
+    Czytanie
+
+18.05.2023 12:45 - 13:15:
+    Czytanie
+
+19.05.2023 21:29 - 21:59:
+    Czytanie
+
+20.05.2023 18:32 - 19:02:
+    Czytanie
+
+21.05.2023 20:28 - 20:58:
+    @6 Ukraina         :   83/84 98% (literówka)
+    @7 Borys wypierdala: 192/210 91% 
+
+22.05.2023 18:09 - 18:39:
+    @7 Borys wypierdala: 203/210 96% (w tym 1, który powinien zostać override'owany)
+
+23.05.2023 22:01 - 22:31:
+    Czytanie
+
+24.05.2023 23:32 - 0:02:
+    Czytanie
+
+25.05.2023 21:09 - 21:39:
+    Czytanie
+
+26.05.2023 19:49 - 20:19:
+    @8 Mieszkania: 123/128 96% (kilka resetów przez literówki z nieuwagi, ale chuj)
+    @9 Niepodległość: 114/120 95%
+
+27.05.2023 22:40 - 23:10
+    @10 Kariera wiecznego cwela: 56/58 96% (minimalna literówka + szybki enter, ale i tak ponad 95%)
+    @11 Sekt-AA                : 67/72 93% (do poprawy jutro)
+
+28.05.2023 21:43 - 22:13:
+    @11 Sekt-AA                    : 72/72 100% (z overridem literówki z nieuwagi)
+    @12 Nadmorskie miasta fotografa: 85/88 96%
+
+29.05.2023 20:49 - 21:19:
+    @13 Prawo do protestów: 136/146 93% (do poprawy)
+
+30.05.2023 22:28 - 22:58:
+    @13 Prawo do protestów: 142/146 97% (same pierdoły)
+    @14 Nie dla księstwa  :   60/65 92% (do poprawy)
+
+31.05.2023 22:41 - 23:11:
+    @14 Nie dla księstwa   :   65/65 100%
+    @15 Jeże, grzyby, ptaki: 163/177  92% (do poprawy)
+
+01.06.2023 23:04 - 23:34:
+    @15 Jeże, grzyby, ptaki: 173.177  97%
+
+02.06.2023 23:21 - 23:51:
+    Czytanie
+
+03.06.2023 23:14 - 23:44:
+    Czytanie
+
+04.06.2023 21:46 - 22:16:
+    Czytanie
+
+05.06.2023 21:53 - 22:23:
+    @16 Walijczycy walą w żyłę: 58/72 80% (no cóż xDDDD w chuj dużo pierdół, ale i tak sporo wyszło)
+    @17 Strażaków mało, a strep A szaleje: 127/142 89%
+    Oba do poprawy
+
+06.06.2023 22:16 - 22:46:
+    @16 Walijczycy walą w żyłę: 70/72 97%
+    @17 Strażaków mało, a strep A szaleje: 138/142 97%
+    @18 Strajk pogotowia i ścieki w kąpielisku: 111/116 95%
+
+07.06.2023 wolne
+
+08.06.2023 23:25 - 23:55:
+    @19 Medycyna nuklearna i stary zegar:   61/69  88% (do poprawy)
+    @20 Zasilanie tłumaczy OZE          : 113/127  88% (do poprawy)
+
+09.06.2023 A) 19:56 - 20:06 (przerwa na kota) B) 20:22 - 20:42:
+    A) @19 Medycyna nuklearna i stary zegar:   67/69  97% (literówka i zła liczba)
+    B) @20 Zasilanie tłumaczy OZE          : 124/127  97%  (2 pierdoły)
+
+10.60.2023 A) 18:23 - 18:38 B) 19:05 - 19:20:
+    A) Duolingo + przygotowanie zestawu egzaminacyjnego (11-20)
+    B) Czytanie
+
+11.06.2023 A) 23:17 - 23:47:
+    A) Duolingo + czytanie
+
+12.06.2023 A) 21:15 - 21:45:
+    A) Duolingo + zgon
+
+13.06.2023 A) 13:54 - 14:24:
+    A) Duolingo + próbny egzamin #2: zapomniałem zaznaczyć, by wymagana była tylko
+    jedna odpowiedź z listy, przez co sporo fałszywych błędów mi nabiło
+
+14.06.2023 A) 16:03 - 16:23 B) 20:35 - 21:35:
+    A) Duolingo + egzamin (244 dobrze, 9 źle, zostało 821)
+    B) Egzamin #2: 1022/1074 (gdzie sporo błędów to akceptowalne pierdoły typu 
+        literówek/synonimów i szybkich enterów) - zaliczony
+    Można wrócić do spisywania słów. Pora na trzecią serię.
+
+15.06.2023 A) 23:03 - 23:33:
+    Szukanie nowego artykułu (lub 2). Nadadzą się:
+        https://www.bbc.com/cymrufyw/65914526
+        https://www.bbc.com/cymrufyw/65917945 (dodatek)
+
+16.06.2023 A) 22:11 - 22:41:
+    A) Rozpoczęcie spisywania słów z pierwszego artykułu (+ nieco ulepszony format pliku)
+    
+17.06.2023 A) 19:01 - 19:31:
+    A) Zrobione do "Mae'r Pwyllgor Breintiau, sy'n grŵp trawsbleidiol o ASau gyda mwyafrif Ceidwadol, wedi bod yn ymchwilio ers bron i flwyddyn."
+
+18.06.2023 -> 19.06.2023 A) 0:49 - 1:19:
+    A) Zrobione do "Ymatebodd arweinydd Plaid Cymru yn San Steffan, Liz Saville Roberts: "Penderfynodd pobl Cymru amser maith yn ôl - mae Johnson yn gelwyddog ac ni ddylai byth gael yr hawl i wenwyno ein gwleidyddiaeth eto."
+
+19.06.2023 A) 23:21 - 23:51:
+    A) Zrobiony pierwszy artykuł. Chyba.
+
+20.06.2023 A) 21:53 - 22:30:
+    A) Zrobiony drugi artykuł
+
+21.06.2023 A) 23:06 - 23:36
+    A) Przepisywanie do Quizleta (do: cuddio)
+
+22.06.2023 A) 22:14 - 22:44:
+    A) Przepisywanie do Quizleta (zrobione)

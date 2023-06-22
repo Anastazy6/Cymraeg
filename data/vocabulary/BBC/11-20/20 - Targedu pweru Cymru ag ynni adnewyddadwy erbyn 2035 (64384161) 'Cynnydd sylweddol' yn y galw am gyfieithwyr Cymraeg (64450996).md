@@ -78,7 +78,7 @@ ID: 64450996
 1. cymwysedig (be) - wykwalifikowany
 1. darlledu (be) - transmitować, nadawać (np. program)
 1. dehonglydd (eg) dehonglwyr (ll) - interpreter (jako program komputerowy)
-1. drws (eg) drysau (ll) - drzwi
+1. drws (eg) drysau (ll) - drzw
 1. fersiwn (eg/b) fersiynau (ll) - wersja
 1. ffantastig (ans) - fantastyczny
 1. ffi (eb) ffioedd (ll) - fee: opłata (np. za wejście, za członkostwo), honorarium, czesne;

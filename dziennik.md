@@ -1780,3 +1780,58 @@ Wyszła nieplanowana przerwa
 
 22.06.2023 A) 22:14 - 22:44:
     A) Przepisywanie do Quizleta (zrobione)
+
+23.06.2023 A) 22:22 - 22:52:
+    A) Johnson szkodnikiem, a brat bratu nożem: 34/61 56%
+
+24.06.2023 22:30 - 23:00
+    Johnson szkodnikiem, a brat bratu nożem: 52/61 85%
+    Runda 2: 59/61 96%
+    W międzyczasie czytanie BBC na Tronie Mrozu: https://www.bbc.com/cymrufyw/65988728 (potencjalny kolejny artykuł)
+
+25.06.2023 Dzień wolny od pracy - święto roweru
+
+### Przerwa na szpital
+
+29.06.2023 21:10 - 21:40:
+    Czytanie
+
+30.06.2023 23:41 - 0:11:
+    Czytanie
+
+01.07.2023 19:02 - 19:32:
+    Czytanie
+
+02.07.2023 17:19 - 17:49:
+    Grindowanie duolingo
+
+03.07.2023 20:25 - 20:55:
+    Gridnowanie duolingo z boostem do expa.
+
+04.07.2023 21:10 - 21:40:
+    Czytanie
+
+05.07.2023 23:13 - 23:43:
+    Czytanie
+
+06.07.2023 23:26 - 23:56:
+    Na potem: https://www.bbc.com/cymrufyw/66121412
+    Do przerobienia jak znajdé drugi artyku (bo ten jest dość krótki)
+
+07.07.2023 -> 08.07.2023 2:30 - 3:00:
+    Czytanie, szukanie drugiego artykuu
+
+08.07.2023 23:53 - 0:23:
+    Czytanie
+
+09.07.2023 23:48 - 0:23:
+    W sumie w tym artykule jest troché nowych słów:
+    https://www.bbc.com/cymrufyw/66089363
+    Są 2, można jutro się za nie zabrać.
+
+10.07.2023 A) 23:20 - 23:27 B) 2:30 - 2:53:
+    A) Duolingo + trochę czekania (czekałem na dawida)
+    B) Rozpoczęcie spisywania słów z nowych artykułów.
+
+11.07.2023 A) 13:36 - 14:06:
+    A) Zrobione do: "O ystyried cyfanswm y capasiti cynllunio brys ar draws GIG Cymru, byddwn yn disgwyl i ni fod yn fwy cydweithredol nag yr ydym ar hyn o bryd."

@@ -1835,3 +1835,91 @@ Wyszła nieplanowana przerwa
 
 11.07.2023 A) 13:36 - 14:06:
     A) Zrobione do: "O ystyried cyfanswm y capasiti cynllunio brys ar draws GIG Cymru, byddwn yn disgwyl i ni fod yn fwy cydweithredol nag yr ydym ar hyn o bryd."
+
+12.07.2023 A) 17:37 - 18:07:
+    A) 
+
+13.07.2023 A) 21:48 - 22:18:
+    A) Czytanie
+
+14.07.2023 A) 22:32 - 23:02:
+    A) Czytanie
+
+15.07.2023 A) 17:29 - 17:59:
+    A) Skończony pierwszy artykuł.
+
+### Szpital
+
+24.07.2023 18:20 - 18:50:
+    Czytanie (na telefonie)
+
+25.07.2023 15:30 - 16:02:
+    J. w.
+
+26.07.2023 <-- --> 01.08.2023:
+    Robione codziennie na teelefonie: czytanie + duolingo
+
+02.08.2023 15:15 - 15:45:
+    j.w.
+
+03.08.2023 <-- --> 04.08.2023:
+    j.w.
+
+05.08.2023, 06.08.2023 14:08 - 14:38:
+    j.w.
+
+07.08.2023 -> 16.09.2023: robione codziennie na telefonie: duolingo/czytanie
+
+17.09.2023 18:24 - 18:54:
+    Duolingo na telefonie (ostatnio coś mi się nie chce ponad to xD)
+
+18.09.2023 23:31 - 0:01: duolingo
+
+19.09.2023 0:01  - 0:31: wincyj duolingo'
+
+20.09.2023 -> 19.02.2024: w sumie tylko czytanie i duolingo przez ten czas
+
+
+
+
+
+
+20.02.2024 22:29 - 22:59:
+    Duolingo
+    Johnson i HS2: 126/137 91%
+
+21.02.2024 A) 21:35 - 22:05:
+    A) Johnson i HS2: 131/137 96% (3 błędy, 2 pierdoły)
+
+22.02.2024 A) 23:18 - 23:48:
+    Plaże, niebieska flaga: 101/105 96%
+    Synestezja            : 106/120 88% (do poprawy, mimo, że parę błędów to pierdoły)
+
+23.02.2024 A) 21:41 - 22:11:
+    Synestezja: 114/120 95% (uff)
+    Hiv       :  93/104 89% do poprawy
+
+24.02.2024 A) 17:01 - 17:31:
+    Hiv    : 103/104 99%
+    Strajki:   83/91 91% do poprawy (i w sumie dobrze, bo po takiej przerwie trzeba sobie utrwalićr)
+
+25.02.2024 A) 22:52 - 23:24:
+    Strajki         :   90/91 100% (tylko literówka ze zbyt szybkiego pisania)
+    Ukraina         :   75/84  89%
+    Borys wypierdala: 180/210  85%
+
+26.02.2024 A) 21:55 - 22:25:
+    Ukraina         :   84/84 100%
+    Borys wypierdala: 206/210  98% (poprawiony błąd w systemie: ~~"gofiduau"~~ => "gofidiau")
+
+27.02.2024 A) 22:21 - 22:51:
+    Mieszkania: 117/128 91%
+    
+
+28.02.2024 A) 19:34 - 20:04:
+    Mieszkania: 127/128  9% (tylko literówka)
+    Niepodlegość: 102/120 85% (sporo literówek, ale nie tylko one)
+
+29.02.2024 A) 22:15 - 22:45:
+    Niepodległość: 114/120 94% ~~(w sumie nie wiem co dokładnie źle, bo to jakieś pierdoły były, ale niech będzie, że do poprawy)~~ pisownia, literówki i jedno słowo źle odczytałem
+    Kariera wiecznego cwela: 54/58 93%
